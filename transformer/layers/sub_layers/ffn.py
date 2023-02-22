@@ -1,0 +1,2 @@
+class PositionwiseFFN:
+    pass
